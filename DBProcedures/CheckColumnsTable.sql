@@ -1,0 +1,1 @@
+﻿CREATE TYPE CheckColumnsTable AS TABLE (id INT, columnName VARCHAR(50), dataType NVARCHAR(128))
